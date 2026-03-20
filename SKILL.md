@@ -1,5 +1,5 @@
 ---
-name: content-repurposer
+name: multiplatform-content-repurposer
 description: "Content repurposing agent. Transforms long-form content (blog posts, video transcripts, podcast notes) into platform-optimized formats: LinkedIn post, X/Twitter thread, email newsletter, Instagram caption, YouTube description, TikTok script. Triggers: repurpose content, content repurposing, repurpose blog post, linkedin post from blog, twitter thread from article, email from content, content distribution, content recycling, multi-platform content, content atomization"
 allowed-tools: Bash
 metadata:
